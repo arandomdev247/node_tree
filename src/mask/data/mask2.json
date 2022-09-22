@@ -1,0 +1,1263 @@
+{
+    "ignore_blanks": false,
+    "chkval_A1": {
+        "mask": "host",
+        "name": "default-feedback-ip",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'default-feedback-ip' dans 'host'"
+    },
+    "chkval_A2": {
+        "mask": "host",
+        "name": "default-feedback-ip6",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'default-feedback-ip6' dans 'host'"
+    },
+    "chkval_A3": {
+        "mask": "host",
+        "name": "domain-name",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'domain-name' dans 'host'"
+    },
+    "chkval_A4": {
+        "mask": "host",
+        "name": "fortiview",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'fortiview' dans 'host'"
+    },
+    "chkval_A5": {
+        "mask": "host",
+        "name": "fullname",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'fullname' dans 'host'"
+    },
+    "chkval_A6": {
+        "mask": "host",
+        "name": "host-name",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'host-name' dans 'host'"
+    },
+    "chkval_A7": {
+        "mask": "host",
+        "name": "load-balance-method",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'load-balance-method' dans 'host'"
+    },
+    "chkval_A8": {
+        "mask": "host",
+        "name": "mkey",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'mkey' dans 'host'"
+    },
+    "chkval_A9": {
+        "mask": "host",
+        "name": "name",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'name' dans 'host'"
+    },
+    "chkval_A10": {
+        "mask": "host",
+        "name": "persistence",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'persistence' dans 'host'"
+    },
+    "chkval_A11": {
+        "mask": "host",
+        "name": "respond-single-record",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'respond-single-record' dans 'host'"
+    },
+    "chkval_A12": {
+        "mask": "host",
+        "name": "vs_pool_list_count",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'vs_pool_list_count' dans 'host'"
+    },
+    "chkval_B1": {
+        "mask": "vsp",
+        "name": "alternate",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'alternate' dans 'vsp'"
+    },
+    "chkval_B2": {
+        "mask": "vsp",
+        "name": "alternate-cmr",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'alternate-cmr' dans 'vsp'"
+    },
+    "chkval_B3": {
+        "mask": "vsp",
+        "name": "check-server-status",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'check-server-status' dans 'vsp'"
+    },
+    "chkval_B4": {
+        "mask": "vsp",
+        "name": "check-virtual-server-existent",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'check-virtual-server-existent' dans 'vsp'"
+    },
+    "chkval_B5": {
+        "mask": "vsp",
+        "name": "load-balance-method",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'load-balance-method' dans 'vsp'"
+    },
+    "chkval_B6": {
+        "mask": "vsp",
+        "name": "mkey",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'mkey' dans 'vsp'"
+    },
+    "chkval_B7": {
+        "mask": "vsp",
+        "name": "name",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'name' dans 'vsp'"
+    },
+    "chkval_B8": {
+        "mask": "vsp",
+        "name": "preferred",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'preferred' dans 'vsp'"
+    },
+    "chkval_B9": {
+        "mask": "vsp",
+        "name": "preferred-cmr",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'preferred-cmr' dans 'vsp'"
+    },
+    "chkval_B10": {
+        "mask": "vsp",
+        "name": "vs_pool_member_count",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'vs_pool_member_count' dans 'vsp'"
+    },
+    "chkval_C1": {
+        "mask": "vs",
+        "name": "name",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'name' dans 'vs'"
+    },
+    "chkval_C2": {
+        "mask": "vs",
+        "name": "addr-type",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'addr-type' dans 'vs'"
+    },
+    "chkval_C3": {
+        "mask": "vs",
+        "name": "address",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'address' dans 'vs'"
+    },
+    "chkval_C4": {
+        "mask": "vs",
+        "name": "address6",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'address6' dans 'vs'"
+    },
+    "chkval_C5": {
+        "mask": "vs",
+        "name": "adfs-published-service",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'adfs-published-service' dans 'vs'"
+    },
+    "chkval_C6": {
+        "mask": "vs",
+        "name": "alone",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'alone' dans 'vs'"
+    },
+    "chkval_C7": {
+        "mask": "vs",
+        "name": "auth_policy",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'auth_policy' dans 'vs'"
+    },
+    "chkval_C8": {
+        "mask": "vs",
+        "name": "av-profile",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'av-profile' dans 'vs'"
+    },
+    "chkval_C9": {
+        "mask": "vs",
+        "name": "availability",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'availability' dans 'vs'"
+    },
+    "chkval_C10": {
+        "mask": "vs",
+        "name": "azure-lb-backend",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'azure-lb-backend' dans 'vs'"
+    },
+    "chkval_C11": {
+        "mask": "vs",
+        "name": "captcha-profile",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'captcha-profile' dans 'vs'"
+    },
+    "chkval_C12": {
+        "mask": "vs",
+        "name": "client_ssl_profile",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'client_ssl_profile' dans 'vs'"
+    },
+    "chkval_C13": {
+        "mask": "vs",
+        "name": "clone-pool",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'clone-pool' dans 'vs'"
+    },
+    "chkval_C14": {
+        "mask": "vs",
+        "name": "clone-traffic-type",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'clone-traffic-type' dans 'vs'"
+    },
+    "chkval_C15": {
+        "mask": "vs",
+        "name": "comments",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'comments' dans 'vs'"
+    },
+    "chkval_C16": {
+        "mask": "vs",
+        "name": "connection-limit",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'connection-limit' dans 'vs'"
+    },
+    "chkval_C17": {
+        "mask": "vs",
+        "name": "connection-pool",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'connection-pool' dans 'vs'"
+    },
+    "chkval_C18": {
+        "mask": "vs",
+        "name": "connection-rate-limit",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'connection-rate-limit' dans 'vs'"
+    },
+    "chkval_C19": {
+        "mask": "vs",
+        "name": "content-rewriting",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'content-rewriting' dans 'vs'"
+    },
+    "chkval_C20": {
+        "mask": "vs",
+        "name": "content-rewriting-list",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'content-rewriting-list' dans 'vs'"
+    },
+    "chkval_C21": {
+        "mask": "vs",
+        "name": "content-routing",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'content-routing' dans 'vs'"
+    },
+    "chkval_C22": {
+        "mask": "vs",
+        "name": "content-routing-list",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'content-routing-list' dans 'vs'"
+    },
+    "chkval_C23": {
+        "mask": "vs",
+        "name": "domain-name",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'domain-name' dans 'vs'"
+    },
+    "chkval_C24": {
+        "mask": "vs",
+        "name": "dos_profile",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'dos_profile' dans 'vs'"
+    },
+    "chkval_C25": {
+        "mask": "vs",
+        "name": "error-msg",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'error-msg' dans 'vs'"
+    },
+    "chkval_C26": {
+        "mask": "vs",
+        "name": "error-page",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'error-page' dans 'vs'"
+    },
+    "chkval_C27": {
+        "mask": "vs",
+        "name": "fortiview",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'fortiview' dans 'vs'"
+    },
+    "chkval_C28": {
+        "mask": "vs",
+        "name": "host-name",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'host-name' dans 'vs'"
+    },
+    "chkval_C29": {
+        "mask": "vs",
+        "name": "http2https",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'http2https' dans 'vs'"
+    },
+    "chkval_C30": {
+        "mask": "vs",
+        "name": "http2https-port",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'http2https-port' dans 'vs'"
+    },
+    "chkval_C31": {
+        "mask": "vs",
+        "name": "interface",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'interface' dans 'vs'"
+    },
+    "chkval_C32": {
+        "mask": "vs",
+        "name": "ips_profile",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'ips_profile' dans 'vs'"
+    },
+    "chkval_C33": {
+        "mask": "vs",
+        "name": "l2-exception-list",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'l2-exception-list' dans 'vs'"
+    },
+    "chkval_C34": {
+        "mask": "vs",
+        "name": "method",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'method' dans 'vs'"
+    },
+    "chkval_C35": {
+        "mask": "vs",
+        "name": "mkey",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'mkey' dans 'vs'"
+    },
+    "chkval_C36": {
+        "mask": "vs",
+        "name": "one-click-gslb-server",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'one-click-gslb-server' dans 'vs'"
+    },
+    "chkval_C37": {
+        "mask": "vs",
+        "name": "packet-fwd-method",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'packet-fwd-method' dans 'vs'"
+    },
+    "chkval_C38": {
+        "mask": "vs",
+        "name": "pagespeed",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'pagespeed' dans 'vs'"
+    },
+    "chkval_C39": {
+        "mask": "vs",
+        "name": "persistence",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'persistence' dans 'vs'"
+    },
+    "chkval_C40": {
+        "mask": "vs",
+        "name": "pool",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'pool' dans 'vs'"
+    },
+    "chkval_C41": {
+        "mask": "vs",
+        "name": "port",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'port' dans 'vs'"
+    },
+    "chkval_C42": {
+        "mask": "vs",
+        "name": "profile",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'profile' dans 'vs'"
+    },
+    "chkval_C43": {
+        "mask": "vs",
+        "name": "protocol",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'protocol' dans 'vs'"
+    },
+    "chkval_C44": {
+        "mask": "vs",
+        "name": "public-ip",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'public-ip' dans 'vs'"
+    },
+    "chkval_C45": {
+        "mask": "vs",
+        "name": "public-ip-type",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'public-ip-type' dans 'vs'"
+    },
+    "chkval_C46": {
+        "mask": "vs",
+        "name": "public-ip6",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'public-ip6' dans 'vs'"
+    },
+    "chkval_C47": {
+        "mask": "vs",
+        "name": "schedule-list",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'schedule-list' dans 'vs'"
+    },
+    "chkval_C48": {
+        "mask": "vs",
+        "name": "schedule-pool-list",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'schedule-pool-list' dans 'vs'"
+    },
+    "chkval_C49": {
+        "mask": "vs",
+        "name": "scripting_flag",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'scripting_flag' dans 'vs'"
+    },
+    "chkval_C50": {
+        "mask": "vs",
+        "name": "scripting_list",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'scripting_list' dans 'vs'"
+    },
+    "chkval_C51": {
+        "mask": "vs",
+        "name": "source-pool-list",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'source-pool-list' dans 'vs'"
+    },
+    "chkval_C52": {
+        "mask": "vs",
+        "name": "ssl-mirror",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'ssl-mirror' dans 'vs'"
+    },
+    "chkval_C53": {
+        "mask": "vs",
+        "name": "ssl-mirror-intf",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'ssl-mirror-intf' dans 'vs'"
+    },
+    "chkval_C54": {
+        "mask": "vs",
+        "name": "status",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'status' dans 'vs'"
+    },
+    "chkval_C55": {
+        "mask": "vs",
+        "name": "stream_scripting_flag",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'stream_scripting_flag' dans 'vs'"
+    },
+    "chkval_C56": {
+        "mask": "vs",
+        "name": "stream_scripting_list",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'stream_scripting_list' dans 'vs'"
+    },
+    "chkval_C57": {
+        "mask": "vs",
+        "name": "traffic-group",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'traffic-group' dans 'vs'"
+    },
+    "chkval_C58": {
+        "mask": "vs",
+        "name": "traffic-log",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'traffic-log' dans 'vs'"
+    },
+    "chkval_C59": {
+        "mask": "vs",
+        "name": "trans-rate-limit",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'trans-rate-limit' dans 'vs'"
+    },
+    "chkval_C60": {
+        "mask": "vs",
+        "name": "type",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'type' dans 'vs'"
+    },
+    "chkval_C61": {
+        "mask": "vs",
+        "name": "use-azure-lb-backend-ip",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'use-azure-lb-backend-ip' dans 'vs'"
+    },
+    "chkval_C62": {
+        "mask": "vs",
+        "name": "waf-profile",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'waf-profile' dans 'vs'"
+    },
+    "chkval_C63": {
+        "mask": "vs",
+        "name": "warmrate",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'warmrate' dans 'vs'"
+    },
+    "chkval_C64": {
+        "mask": "vs",
+        "name": "warmup",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'warmup' dans 'vs'"
+    },
+    "chkval_C65": {
+        "mask": "vs",
+        "name": "wccp",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'wccp' dans 'vs'"
+    },
+    "chkval_D1": {
+        "mask": "rsp",
+        "name": "addr-type",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'addr-type' dans 'rsp'"
+    },
+    "chkval_D2": {
+        "mask": "rsp",
+        "name": "address",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'address' dans 'rsp'"
+    },
+    "chkval_D3": {
+        "mask": "rsp",
+        "name": "address6",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'address6' dans 'rsp'"
+    },
+    "chkval_D4": {
+        "mask": "rsp",
+        "name": "adfs-published-service",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'adfs-published-service' dans 'rsp'"
+    },
+    "chkval_D5": {
+        "mask": "rsp",
+        "name": "alone",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'alone' dans 'rsp'"
+    },
+    "chkval_D6": {
+        "mask": "rsp",
+        "name": "auth_policy",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'auth_policy' dans 'rsp'"
+    },
+    "chkval_D7": {
+        "mask": "rsp",
+        "name": "av-profile",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'av-profile' dans 'rsp'"
+    },
+    "chkval_D8": {
+        "mask": "rsp",
+        "name": "availability",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'availability' dans 'rsp'"
+    },
+    "chkval_D9": {
+        "mask": "rsp",
+        "name": "azure-lb-backend",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'azure-lb-backend' dans 'rsp'"
+    },
+    "chkval_D10": {
+        "mask": "rsp",
+        "name": "captcha-profile",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'captcha-profile' dans 'rsp'"
+    },
+    "chkval_D11": {
+        "mask": "rsp",
+        "name": "client_ssl_profile",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'client_ssl_profile' dans 'rsp'"
+    },
+    "chkval_D12": {
+        "mask": "rsp",
+        "name": "clone-pool",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'clone-pool' dans 'rsp'"
+    },
+    "chkval_D13": {
+        "mask": "rsp",
+        "name": "clone-traffic-type",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'clone-traffic-type' dans 'rsp'"
+    },
+    "chkval_D14": {
+        "mask": "rsp",
+        "name": "comments",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'comments' dans 'rsp'"
+    },
+    "chkval_D15": {
+        "mask": "rsp",
+        "name": "connection-limit",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'connection-limit' dans 'rsp'"
+    },
+    "chkval_D16": {
+        "mask": "rsp",
+        "name": "connection-pool",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'connection-pool' dans 'rsp'"
+    },
+    "chkval_D17": {
+        "mask": "rsp",
+        "name": "connection-rate-limit",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'connection-rate-limit' dans 'rsp'"
+    },
+    "chkval_D18": {
+        "mask": "rsp",
+        "name": "content-rewriting",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'content-rewriting' dans 'rsp'"
+    },
+    "chkval_D19": {
+        "mask": "rsp",
+        "name": "content-rewriting-list",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'content-rewriting-list' dans 'rsp'"
+    },
+    "chkval_D20": {
+        "mask": "rsp",
+        "name": "content-routing",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'content-routing' dans 'rsp'"
+    },
+    "chkval_D21": {
+        "mask": "rsp",
+        "name": "content-routing-list",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'content-routing-list' dans 'rsp'"
+    },
+    "chkval_D22": {
+        "mask": "rsp",
+        "name": "domain-name",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'domain-name' dans 'rsp'"
+    },
+    "chkval_D23": {
+        "mask": "rsp",
+        "name": "dos_profile",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'dos_profile' dans 'rsp'"
+    },
+    "chkval_D24": {
+        "mask": "rsp",
+        "name": "error-msg",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'error-msg' dans 'rsp'"
+    },
+    "chkval_D25": {
+        "mask": "rsp",
+        "name": "error-page",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'error-page' dans 'rsp'"
+    },
+    "chkval_D26": {
+        "mask": "rsp",
+        "name": "fortiview",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'fortiview' dans 'rsp'"
+    },
+    "chkval_D27": {
+        "mask": "rsp",
+        "name": "host-name",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'host-name' dans 'rsp'"
+    },
+    "chkval_D28": {
+        "mask": "rsp",
+        "name": "http2https",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'http2https' dans 'rsp'"
+    },
+    "chkval_D29": {
+        "mask": "rsp",
+        "name": "http2https-port",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'http2https-port' dans 'rsp'"
+    },
+    "chkval_D30": {
+        "mask": "rsp",
+        "name": "interface",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'interface' dans 'rsp'"
+    },
+    "chkval_D31": {
+        "mask": "rsp",
+        "name": "ips_profile",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'ips_profile' dans 'rsp'"
+    },
+    "chkval_D32": {
+        "mask": "rsp",
+        "name": "l2-exception-list",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'l2-exception-list' dans 'rsp'"
+    },
+    "chkval_D33": {
+        "mask": "rsp",
+        "name": "method",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'method' dans 'rsp'"
+    },
+    "chkval_D34": {
+        "mask": "rsp",
+        "name": "mkey",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'mkey' dans 'rsp'"
+    },
+    "chkval_D35": {
+        "mask": "rsp",
+        "name": "name",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'name' dans 'rsp'"
+    },
+    "chkval_D36": {
+        "mask": "rsp",
+        "name": "one-click-gslb-server",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'one-click-gslb-server' dans 'rsp'"
+    },
+    "chkval_D37": {
+        "mask": "rsp",
+        "name": "packet-fwd-method",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'packet-fwd-method' dans 'rsp'"
+    },
+    "chkval_D38": {
+        "mask": "rsp",
+        "name": "pagespeed",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'pagespeed' dans 'rsp'"
+    },
+    "chkval_D39": {
+        "mask": "rsp",
+        "name": "persistence",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'persistence' dans 'rsp'"
+    },
+    "chkval_D40": {
+        "mask": "rsp",
+        "name": "pool",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'pool' dans 'rsp'"
+    },
+    "chkval_D41": {
+        "mask": "rsp",
+        "name": "port",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'port' dans 'rsp'"
+    },
+    "chkval_D42": {
+        "mask": "rsp",
+        "name": "profile",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'profile' dans 'rsp'"
+    },
+    "chkval_D43": {
+        "mask": "rsp",
+        "name": "protocol",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'protocol' dans 'rsp'"
+    },
+    "chkval_D44": {
+        "mask": "rsp",
+        "name": "public-ip",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'public-ip' dans 'rsp'"
+    },
+    "chkval_D45": {
+        "mask": "rsp",
+        "name": "public-ip-type",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'public-ip-type' dans 'rsp'"
+    },
+    "chkval_D46": {
+        "mask": "rsp",
+        "name": "public-ip6",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'public-ip6' dans 'rsp'"
+    },
+    "chkval_D47": {
+        "mask": "rsp",
+        "name": "schedule-list",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'schedule-list' dans 'rsp'"
+    },
+    "chkval_D48": {
+        "mask": "rsp",
+        "name": "schedule-pool-list",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'schedule-pool-list' dans 'rsp'"
+    },
+    "chkval_D49": {
+        "mask": "rsp",
+        "name": "scripting_flag",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'scripting_flag' dans 'rsp'"
+    },
+    "chkval_D50": {
+        "mask": "rsp",
+        "name": "scripting_list",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'scripting_list' dans 'rsp'"
+    },
+    "chkval_D51": {
+        "mask": "rsp",
+        "name": "source-pool-list",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'source-pool-list' dans 'rsp'"
+    },
+    "chkval_D52": {
+        "mask": "rsp",
+        "name": "ssl-mirror",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'ssl-mirror' dans 'rsp'"
+    },
+    "chkval_D53": {
+        "mask": "rsp",
+        "name": "ssl-mirror-intf",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'ssl-mirror-intf' dans 'rsp'"
+    },
+    "chkval_D54": {
+        "mask": "rsp",
+        "name": "status",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'status' dans 'rsp'"
+    },
+    "chkval_D55": {
+        "mask": "rsp",
+        "name": "stream_scripting_flag",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'stream_scripting_flag' dans 'rsp'"
+    },
+    "chkval_D56": {
+        "mask": "rsp",
+        "name": "stream_scripting_list",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'stream_scripting_list' dans 'rsp'"
+    },
+    "chkval_D57": {
+        "mask": "rsp",
+        "name": "traffic-group",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'traffic-group' dans 'rsp'"
+    },
+    "chkval_D58": {
+        "mask": "rsp",
+        "name": "traffic-log",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'traffic-log' dans 'rsp'"
+    },
+    "chkval_D59": {
+        "mask": "rsp",
+        "name": "trans-rate-limit",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'trans-rate-limit' dans 'rsp'"
+    },
+    "chkval_D60": {
+        "mask": "rsp",
+        "name": "type",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'type' dans 'rsp'"
+    },
+    "chkval_D61": {
+        "mask": "rsp",
+        "name": "use-azure-lb-backend-ip",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'use-azure-lb-backend-ip' dans 'rsp'"
+    },
+    "chkval_D62": {
+        "mask": "rsp",
+        "name": "waf-profile",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'waf-profile' dans 'rsp'"
+    },
+    "chkval_D63": {
+        "mask": "rsp",
+        "name": "warmrate",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'warmrate' dans 'rsp'"
+    },
+    "chkval_D64": {
+        "mask": "rsp",
+        "name": "warmup",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'warmup' dans 'rsp'"
+    },
+    "chkval_D65": {
+        "mask": "rsp",
+        "name": "wccp",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'wccp' dans 'rsp'"
+    },
+    "chkval_D66": {
+        "mask": "rsp",
+        "name": "direct_route_ip",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'direct_route_ip' dans 'rsp'"
+    },
+    "chkval_D67": {
+        "mask": "rsp",
+        "name": "direct_route_ip6",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'direct_route_ip6' dans 'rsp'"
+    },
+    "chkval_D68": {
+        "mask": "rsp",
+        "name": "direct_route_mode",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'direct_route_mode' dans 'rsp'"
+    },
+    "chkval_D69": {
+        "mask": "rsp",
+        "name": "health_check",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'health_check' dans 'rsp'"
+    },
+    "chkval_D70": {
+        "mask": "rsp",
+        "name": "health_check_list",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'health_check_list' dans 'rsp'"
+    },
+    "chkval_D71": {
+        "mask": "rsp",
+        "name": "health_check_relationship",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'health_check_relationship' dans 'rsp'"
+    },
+    "chkval_D72": {
+        "mask": "rsp",
+        "name": "pool_member_count",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'pool_member_count' dans 'rsp'"
+    },
+    "chkval_D73": {
+        "mask": "rsp",
+        "name": "pool_type",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'pool_type' dans 'rsp'"
+    },
+    "chkval_D74": {
+        "mask": "rsp",
+        "name": "rs_profile",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'rs_profile' dans 'rsp'"
+    },
+    "chkval_D75": {
+        "mask": "rsp",
+        "name": "sdn_addr_private",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'sdn_addr_private' dans 'rsp'"
+    },
+    "chkval_D76": {
+        "mask": "rsp",
+        "name": "sdn_connector",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'sdn_connector' dans 'rsp'"
+    },
+    "chkval_D77": {
+        "mask": "rsp",
+        "name": "service",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'service' dans 'rsp'"
+    },
+    "chkval_E1": {
+        "mask": "rs",
+        "name": "availability",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'availability' dans 'rs'"
+    },
+    "chkval_E2": {
+        "mask": "rs",
+        "name": "direct_route_ip",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'direct_route_ip' dans 'rs'"
+    },
+    "chkval_E3": {
+        "mask": "rs",
+        "name": "direct_route_ip6",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'direct_route_ip6' dans 'rs'"
+    },
+    "chkval_E4": {
+        "mask": "rs",
+        "name": "direct_route_mode",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'direct_route_mode' dans 'rs'"
+    },
+    "chkval_E5": {
+        "mask": "rs",
+        "name": "health_check",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'health_check' dans 'rs'"
+    },
+    "chkval_E6": {
+        "mask": "rs",
+        "name": "health_check_list",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'health_check_list' dans 'rs'"
+    },
+    "chkval_E7": {
+        "mask": "rs",
+        "name": "health_check_relationship",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'health_check_relationship' dans 'rs'"
+    },
+    "chkval_E8": {
+        "mask": "rs",
+        "name": "mkey",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'mkey' dans 'rs'"
+    },
+    "chkval_E9": {
+        "mask": "rs",
+        "name": "name",
+        "value": "NODE_X_VM-WEBMAINT",
+        "checked": true,
+        "_comment": "Donnee generee pour : 'name' dans 'rs'"
+    },
+    "chkval_E10": {
+        "mask": "rs",
+        "name": "pool_member_count",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'pool_member_count' dans 'rs'"
+    },
+    "chkval_E11": {
+        "mask": "rs",
+        "name": "pool_type",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'pool_type' dans 'rs'"
+    },
+    "chkval_E12": {
+        "mask": "rs",
+        "name": "rs_profile",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'rs_profile' dans 'rs'"
+    },
+    "chkval_E13": {
+        "mask": "rs",
+        "name": "sdn_addr_private",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'sdn_addr_private' dans 'rs'"
+    },
+    "chkval_E14": {
+        "mask": "rs",
+        "name": "sdn_connector",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'sdn_connector' dans 'rs'"
+    },
+    "chkval_E15": {
+        "mask": "rs",
+        "name": "service",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'service' dans 'rs'"
+    },
+    "chkval_E16": {
+        "mask": "rs",
+        "name": "type",
+        "value": "",
+        "checked": false,
+        "_comment": "Donnee generee pour : 'type' dans 'rs'"
+    }
+}
